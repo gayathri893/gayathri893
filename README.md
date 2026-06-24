@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Selenium**
 
 - 📫 How to reach me **linkedin-@gayathrigajula**
 
