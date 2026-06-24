@@ -31,16 +31,15 @@ I am a motivated and enthusiastic Software Engineer based in **Bangalore, India*
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-
-* Java
+### Frontend
 * HTML
 * CSS
-
-### Software Development
-
+  
+### Backend 
+* Java
 * Object-Oriented Programming (OOP)
-* Core Java
+* Strong Programming Knowledge in Strings and Arrays
+* Java Collections Framework: ArrayList, LinkedList, Vector, Stack, HashSet, LinkedHashSet, TreeSet, Queue
 * Basic Spring Framework
 
 ### Testing & Automation
